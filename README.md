@@ -13,3 +13,8 @@ npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
 ```
+
+<hr />
+
+#### Tutorial by Nader Dabit: https://youtu.be/a0osIaAOFSE
+#### Written Tutorial: https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13
