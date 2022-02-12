@@ -25,6 +25,10 @@ module.exports = {
     hardhat: {
       chainId: 1337,
     },
+    rinkeby: {
+      url: "https://rinkeby.infura.io/v3/cddffc3b6b394339a464fdf3d6210c49",
+      accounts: [`ADD_PRIVATE_KEY_HERE_TO_DEPLOY`]
+    }
   },
 };
  
